@@ -1,0 +1,27 @@
+meta:
+  fr:
+    type: article
+    categories:
+      - transformation numérique
+      - changement
+   es:
+     título: artículo
+     categoría:
+       - transformación digital
+       - cambio
+
+
+contenu:
+  fr:
+    titre: trouver un titre
+    question: C'est quoi la transformation numérique?
+    contenu: |
+      On en parle beaucoup, mais qu'est-ce que ça veut dire vraiment? Est-ce juste un mot à la mode pour me
+      vendre une autre application? Comment ça pourra aider mon entreprise?
+
+      bon, il faut r-diger ca
+
+  es:
+    título: por traducir
+    pregunta: por traducir
+    contenido: por traducir
